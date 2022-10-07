@@ -26,11 +26,9 @@ Some modernes alternatives to basics commands.
 
 - [fzf](https://github.com/junegunn/fzf) A general-purpose command-line fuzzy finder. So great for history search in bash.
 
-
 ## <a name="filemanagers"></a>File Managers
 
 - [xplr](https://github.com/sayanarijit/xplr) A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.
-
 
 ## <a name="editors"></a>Editors
 
@@ -45,14 +43,12 @@ Some modernes alternatives to basics commands.
 
 ## <a name="containers"></a>Containers
 
-- [lazydocker](https://github.com/jesseduffield/lazydocker) The lazier way to manage everything docker
-- [dry](https://github.com/moncho/dry) A Docker manager for the terminal
+- [lazydocker](https://github.com/jesseduffield/lazydocker) The lazier way to manage everything docker.
+- [dry](https://github.com/moncho/dry) A Docker manager for the terminal.
 - [Podman-tui](https://github.com/containers/podman-tui) TUI for Podman containers
 
 
-
 - [sysz](https://github.com/joehillen/sysz) An fzf terminal UI for systemctl
-
 
 ### Sources and usefull links
 
