@@ -50,6 +50,6 @@ Some modernes alternatives to basics commands.
 
 ### Sources and usefull links
 
-https://github.com/rothgar/awesome-tuis
+https://github.com/rothgar/awesome-tuis<br>
 https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md
 
