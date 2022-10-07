@@ -48,8 +48,10 @@ Some modernes alternatives to basics commands.
 ## <a name="containers"></a>Containers
 
 - [lazydocker](https://github.com/jesseduffield/lazydocker) The lazier way to manage everything docker.
-- [dry](https://github.com/moncho/dry) A Docker manager for the terminal.
 - [Podman-tui](https://github.com/containers/podman-tui) TUI for Podman containers
+- [dive](https://github.com/wagoodman/dive) Explore files in docker images, layer contents etc.
+- [dry](https://github.com/moncho/dry) A Docker manager for the terminal.
+
 
 ### Sources and usefull links
 
