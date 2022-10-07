@@ -24,7 +24,10 @@ Some modernes alternatives to basics commands.
 
 ## <a name="terminals"></a>Terminals
 
+- [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
+- [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator.
 - [fzf](https://github.com/junegunn/fzf) A general-purpose command-line fuzzy finder. So great for history search in bash.
+- [fish](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 
 ## <a name="filemanagers"></a>File Managers
 
@@ -56,5 +59,6 @@ Some modernes alternatives to basics commands.
 ### Sources and usefull links
 
 https://github.com/rothgar/awesome-tuis<br>
-https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md
+https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md<br>
+https://github.com/cdleon/awesome-terminals<br>
 
