@@ -48,6 +48,8 @@ Some modernes alternatives to basics commands.
 
 
 
-### Sources
+### Sources and usefull links
 
 https://github.com/rothgar/awesome-tuis
+https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md
+
