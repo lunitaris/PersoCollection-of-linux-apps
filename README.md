@@ -19,8 +19,8 @@ List of projects, I use on Linux
 
 Some modernes alternatives to basics commands.
 
-- [btop++](https://github.com/aristocratos/btop) Resource monitor with extras. (replace htop)
-- [ncdu](https://dev.yorhel.nl/ncdu) disk usage analyzer with an ncurses interface. (improve du)
+- [btop++](https://github.com/aristocratos/btop) Resource monitor with extras. _(replace htop)_
+- [ncdu](https://dev.yorhel.nl/ncdu) disk usage analyzer with an ncurses interface. _(improve du)_
 
 ## <a name="terminals"></a>Terminals
 
