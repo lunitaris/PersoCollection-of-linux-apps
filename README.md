@@ -19,12 +19,12 @@ List of projects, I use on Linux
 
 Some modernes alternatives to basics commands.
 
-- [btop++](https://github.com/aristocratos/btop) Resource monitor with extras.
-- [ncdu](https://dev.yorhel.nl/ncdu) disk usage analyzer with an ncurses interface
+- [btop++](https://github.com/aristocratos/btop) Resource monitor with extras. (replace htop)
+- [ncdu](https://dev.yorhel.nl/ncdu) disk usage analyzer with an ncurses interface. (improve du)
 
 ## <a name="terminals"></a>Terminals
 
-- [fzf](https://github.com/junegunn/fzf) A general-purpose command-line fuzzy finder
+- [fzf](https://github.com/junegunn/fzf) A general-purpose command-line fuzzy finder. So great for history search in bash.
 
 
 ## <a name="filemanagers"></a>File Managers
