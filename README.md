@@ -19,6 +19,7 @@ List of projects, I use on Linux
 
 Some modernes alternatives to basics commands.
 
+- [exa](https://github.com/ogham/exa) Modern replacement for ls with icons and nice ui.
 - [btop++](https://github.com/aristocratos/btop) Resource monitor with extras. _(replace htop)_
 - [ncdu](https://dev.yorhel.nl/ncdu) disk usage analyzer with an ncurses interface. _(improve du)_
 
