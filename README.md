@@ -34,6 +34,8 @@ Some modernes alternatives to basics commands.
 ## <a name="filemanagers"></a>File Managers
 
 - [xplr](https://github.com/sayanarijit/xplr) A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.
+
+- [spf](https://github.com/yorukot/superfile) Super nice file manager in termnial
 - [ranger](https://github.com/ranger/ranger) Popular file browser in terminal.
 - [lf](https://github.com/gokcehan/lf) as list-files, a ranger like file browser.
 
